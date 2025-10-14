@@ -90,7 +90,7 @@ body {
     margin-top: 2rem;
 }
 
-.depoimento__item {
+.depoimentos__item {
     background-color: #fff;
     padding: 1.5rem;
     border-radius: 10px;
@@ -114,7 +114,7 @@ body {
     width: 100%;
 }
 
-.btn {
+.contato__btn {
     padding: 1rem;
     border: none;
     border-radius: 5px;
